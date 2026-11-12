@@ -1,3 +1,5 @@
+> **Unique:** Open experiment record for LoRA fine-tuning Qwen3.5-2B on Malay AWS QA: strict LLM-judge eval results, 24-trial sweep, epochs/completion-only findings, accuracy-vs-flexibility frontier, and a grounding guardrail with eval tools; training code stays private.
+
 # teach-aws-oss — Experiment Results
 
 Open experiment record: unsloth LoRA finetuning of Qwen3.5-2B for Malay AWS QA,
